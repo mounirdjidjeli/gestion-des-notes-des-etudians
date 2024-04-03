@@ -1,0 +1,9 @@
+Numéro d'inscription: 27211
+Nom: mounir
+Prénom: djidjeli
+
+Matière	Code de cours	Note
+1111	12jn	90
+
+Moyenne Générale: 90
+Mention: Excellent

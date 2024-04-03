@@ -1,0 +1,10 @@
+Numéro d'inscription: 2721100
+Nom: mounir
+Prénom: djidjeli
+
+Matière	Coefficient	Note
+1001	12jb	60
+1001	12jb	60
+
+Moyenne Générale: 60
+Mention: Assez bien

@@ -1,0 +1,9 @@
+Numéro d'inscription: 2721100
+Prenom: mounir
+Nom: djdidjeli
+
+Matière	Code	Note
+1111	111jb	90
+
+Moyenne Générale: 90
+Mention: Excellent

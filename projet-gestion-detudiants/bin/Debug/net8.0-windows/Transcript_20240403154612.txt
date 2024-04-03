@@ -1,0 +1,9 @@
+Numéro d'inscription: 272111
+Nom: mou
+Prénom: dji
+
+Matière	Code	Note
+1111	123j	90
+
+Moyenne Générale: 90
+Mention: Excellent

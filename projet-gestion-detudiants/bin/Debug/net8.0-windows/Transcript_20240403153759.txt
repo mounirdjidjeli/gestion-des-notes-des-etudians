@@ -1,0 +1,9 @@
+Numéro d'inscription: 2721100
+Nom: mounir
+Prénom: djidjeli
+
+Matière	Code de cours	Note
+1001	jb21	20
+
+Moyenne Générale: 20
+Mention: Echec
